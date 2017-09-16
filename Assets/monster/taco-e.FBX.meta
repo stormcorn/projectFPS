@@ -1,0 +1,665 @@
+fileFormatVersion: 2
+guid: c88f7dd43f2fbd848a242690a113c892
+timeCreated: 1504958744
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: CATRigHub001
+    100002: CATRigHub001Bone001
+    100004: CATRigHub001Bone001Bone001
+    100006: CATRigHub002
+    100008: CATRigSpine1
+    100010: CATRigSpine2
+    100012: CATRigSpine3
+    100014: CATRigSpine4
+    100016: CATRigSpine5
+    100018: CATRigTail1
+    100020: CATRigTail1 1
+    100022: CATRigTail1 2
+    100024: CATRigTail1 3
+    100026: CATRigTail1 4
+    100028: CATRigTail1 5
+    100030: CATRigTail1 6
+    100032: CATRigTail1 7
+    100034: CATRigTail10
+    100036: CATRigTail10 1
+    100038: CATRigTail10 2
+    100040: CATRigTail10 3
+    100042: CATRigTail10 4
+    100044: CATRigTail10 5
+    100046: CATRigTail10 6
+    100048: CATRigTail10 7
+    100050: CATRigTail11
+    100052: CATRigTail11 1
+    100054: CATRigTail11 2
+    100056: CATRigTail11 3
+    100058: CATRigTail11 4
+    100060: CATRigTail11 5
+    100062: CATRigTail11 6
+    100064: CATRigTail11 7
+    100066: CATRigTail12
+    100068: CATRigTail12 1
+    100070: CATRigTail12 2
+    100072: CATRigTail12 3
+    100074: CATRigTail12 4
+    100076: CATRigTail12 5
+    100078: CATRigTail12 6
+    100080: CATRigTail12 7
+    100082: CATRigTail13
+    100084: CATRigTail13 1
+    100086: CATRigTail13 2
+    100088: CATRigTail13 3
+    100090: CATRigTail13 4
+    100092: CATRigTail13 5
+    100094: CATRigTail13 6
+    100096: CATRigTail13 7
+    100098: CATRigTail2
+    100100: CATRigTail2 1
+    100102: CATRigTail2 2
+    100104: CATRigTail2 3
+    100106: CATRigTail2 4
+    100108: CATRigTail2 5
+    100110: CATRigTail2 6
+    100112: CATRigTail2 7
+    100114: CATRigTail3
+    100116: CATRigTail3 1
+    100118: CATRigTail3 2
+    100120: CATRigTail3 3
+    100122: CATRigTail3 4
+    100124: CATRigTail3 5
+    100126: CATRigTail3 6
+    100128: CATRigTail3 7
+    100130: CATRigTail4
+    100132: CATRigTail4 1
+    100134: CATRigTail4 2
+    100136: CATRigTail4 3
+    100138: CATRigTail4 4
+    100140: CATRigTail4 5
+    100142: CATRigTail4 6
+    100144: CATRigTail4 7
+    100146: CATRigTail5
+    100148: CATRigTail5 1
+    100150: CATRigTail5 2
+    100152: CATRigTail5 3
+    100154: CATRigTail5 4
+    100156: CATRigTail5 5
+    100158: CATRigTail5 6
+    100160: CATRigTail5 7
+    100162: CATRigTail6
+    100164: CATRigTail6 1
+    100166: CATRigTail6 2
+    100168: CATRigTail6 3
+    100170: CATRigTail6 4
+    100172: CATRigTail6 5
+    100174: CATRigTail6 6
+    100176: CATRigTail6 7
+    100178: CATRigTail7
+    100180: CATRigTail7 1
+    100182: CATRigTail7 2
+    100184: CATRigTail7 3
+    100186: CATRigTail7 4
+    100188: CATRigTail7 5
+    100190: CATRigTail7 6
+    100192: CATRigTail7 7
+    100194: CATRigTail8
+    100196: CATRigTail8 1
+    100198: CATRigTail8 2
+    100200: CATRigTail8 3
+    100202: CATRigTail8 4
+    100204: CATRigTail8 5
+    100206: CATRigTail8 6
+    100208: CATRigTail8 7
+    100210: CATRigTail9
+    100212: CATRigTail9 1
+    100214: CATRigTail9 2
+    100216: CATRigTail9 3
+    100218: CATRigTail9 4
+    100220: CATRigTail9 5
+    100222: CATRigTail9 6
+    100224: CATRigTail9 7
+    100226: Character001
+    100228: //RootNode
+    100230: Tacobady
+    400000: CATRigHub001
+    400002: CATRigHub001Bone001
+    400004: CATRigHub001Bone001Bone001
+    400006: CATRigHub002
+    400008: CATRigSpine1
+    400010: CATRigSpine2
+    400012: CATRigSpine3
+    400014: CATRigSpine4
+    400016: CATRigSpine5
+    400018: CATRigTail1
+    400020: CATRigTail1 1
+    400022: CATRigTail1 2
+    400024: CATRigTail1 3
+    400026: CATRigTail1 4
+    400028: CATRigTail1 5
+    400030: CATRigTail1 6
+    400032: CATRigTail1 7
+    400034: CATRigTail10
+    400036: CATRigTail10 1
+    400038: CATRigTail10 2
+    400040: CATRigTail10 3
+    400042: CATRigTail10 4
+    400044: CATRigTail10 5
+    400046: CATRigTail10 6
+    400048: CATRigTail10 7
+    400050: CATRigTail11
+    400052: CATRigTail11 1
+    400054: CATRigTail11 2
+    400056: CATRigTail11 3
+    400058: CATRigTail11 4
+    400060: CATRigTail11 5
+    400062: CATRigTail11 6
+    400064: CATRigTail11 7
+    400066: CATRigTail12
+    400068: CATRigTail12 1
+    400070: CATRigTail12 2
+    400072: CATRigTail12 3
+    400074: CATRigTail12 4
+    400076: CATRigTail12 5
+    400078: CATRigTail12 6
+    400080: CATRigTail12 7
+    400082: CATRigTail13
+    400084: CATRigTail13 1
+    400086: CATRigTail13 2
+    400088: CATRigTail13 3
+    400090: CATRigTail13 4
+    400092: CATRigTail13 5
+    400094: CATRigTail13 6
+    400096: CATRigTail13 7
+    400098: CATRigTail2
+    400100: CATRigTail2 1
+    400102: CATRigTail2 2
+    400104: CATRigTail2 3
+    400106: CATRigTail2 4
+    400108: CATRigTail2 5
+    400110: CATRigTail2 6
+    400112: CATRigTail2 7
+    400114: CATRigTail3
+    400116: CATRigTail3 1
+    400118: CATRigTail3 2
+    400120: CATRigTail3 3
+    400122: CATRigTail3 4
+    400124: CATRigTail3 5
+    400126: CATRigTail3 6
+    400128: CATRigTail3 7
+    400130: CATRigTail4
+    400132: CATRigTail4 1
+    400134: CATRigTail4 2
+    400136: CATRigTail4 3
+    400138: CATRigTail4 4
+    400140: CATRigTail4 5
+    400142: CATRigTail4 6
+    400144: CATRigTail4 7
+    400146: CATRigTail5
+    400148: CATRigTail5 1
+    400150: CATRigTail5 2
+    400152: CATRigTail5 3
+    400154: CATRigTail5 4
+    400156: CATRigTail5 5
+    400158: CATRigTail5 6
+    400160: CATRigTail5 7
+    400162: CATRigTail6
+    400164: CATRigTail6 1
+    400166: CATRigTail6 2
+    400168: CATRigTail6 3
+    400170: CATRigTail6 4
+    400172: CATRigTail6 5
+    400174: CATRigTail6 6
+    400176: CATRigTail6 7
+    400178: CATRigTail7
+    400180: CATRigTail7 1
+    400182: CATRigTail7 2
+    400184: CATRigTail7 3
+    400186: CATRigTail7 4
+    400188: CATRigTail7 5
+    400190: CATRigTail7 6
+    400192: CATRigTail7 7
+    400194: CATRigTail8
+    400196: CATRigTail8 1
+    400198: CATRigTail8 2
+    400200: CATRigTail8 3
+    400202: CATRigTail8 4
+    400204: CATRigTail8 5
+    400206: CATRigTail8 6
+    400208: CATRigTail8 7
+    400210: CATRigTail9
+    400212: CATRigTail9 1
+    400214: CATRigTail9 2
+    400216: CATRigTail9 3
+    400218: CATRigTail9 4
+    400220: CATRigTail9 5
+    400222: CATRigTail9 6
+    400224: CATRigTail9 7
+    400226: Character001
+    400228: //RootNode
+    400230: Tacobady
+    4300000: Tacobady
+    7400000: move
+    7400002: ATT ready01
+    7400004: defense01
+    7400006: ATT01
+    7400008: ATT ready02
+    7400010: defense02
+    7400012: ATT02
+    7400014: Debut
+    7400016: ATT Ready03
+    7400018: defense03
+    7400020: ATT03
+    7400022: Dead
+    9500000: //RootNode
+    13700000: Tacobady
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: move
+      takeName: Take 001
+      firstFrame: 5
+      lastFrame: 25
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: ATT ready01
+      takeName: Take 001
+      firstFrame: 26
+      lastFrame: 50
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: defense01
+      takeName: Take 001
+      firstFrame: 97
+      lastFrame: 106
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: ATT01
+      takeName: Take 001
+      firstFrame: 51
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: ATT ready02
+      takeName: Take 001
+      firstFrame: 61
+      lastFrame: 85
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: defense02
+      takeName: Take 001
+      firstFrame: 107
+      lastFrame: 114
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: ATT02
+      takeName: Take 001
+      firstFrame: 86
+      lastFrame: 96
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Debut
+      takeName: Take 001
+      firstFrame: 115
+      lastFrame: 300
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: ATT Ready03
+      takeName: Take 001
+      firstFrame: 301
+      lastFrame: 400
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: defense03
+      takeName: Take 001
+      firstFrame: 552
+      lastFrame: 570
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: ATT03
+      takeName: Take 001
+      firstFrame: 401
+      lastFrame: 420
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Dead
+      takeName: Take 001
+      firstFrame: 421
+      lastFrame: 550
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
